@@ -27,13 +27,6 @@ Controles: Tratamiento de riesgos, medidas y controles según ISO 27001.
 
 Plan de tratamiento: Responsable, plazo, estado y revisión periódica de las medidas.
 
-Licencia:
-Este proyecto se comparte con fines educativos bajo licencia Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA 4.0).
-
-Se permite compartir y adaptar el contenido siempre que se atribuya correctamente y no se use con fines comerciales.
-
-Cualquier modificación debe compartirse bajo la misma licencia.
-
 Notas importantes:
 
 Los datos de la empresa, empleados y procedimientos son inventados.
